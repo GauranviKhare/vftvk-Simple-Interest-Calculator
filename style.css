@@ -4,7 +4,8 @@
 <style>
 body {background-color:tan;}
 h1{color:grey, font-family:verdana;}
-body {background-color:white;font-family:arial;color:black}
+body {background-color:black;font-family:arial;color:white}
+<div align="center">
 <details><summary>Click to see how the new class should look like</summary>
 .maindiv {
     background-color:white;
@@ -14,6 +15,7 @@ body {background-color:white;font-family:arial;color:black}
     border-radius:25px;
     align:center
 }
+<div>
 </details>
 </body>
 </html>
