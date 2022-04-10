@@ -1,22 +1,13 @@
-<!DOCTYPE html>
-<html>
-<body>
-<style>
-body {background-color:tan;}
-h1{color:grey, font-family:verdana;}
-body {background-color:black;font-family:arial;color:white}
-<details><summary>Click to see how the new class should look like</summary>
-.maindiv {
-    background-color:white;
-    color:black;
-    width:300px;
-    padding:20px;
-    border-radius:25px;
-    align:center
+body {background-color:black;}
+h1{color:grey;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-</details>
-
-</style>
-</body>
-</html>
-
+ 
+.maindiv{
+    background-color: white;
+    color: black;
+    width: 300px;
+    padding: 20px;
+    border-radius: 25px;
+    margin: auto;
+}
