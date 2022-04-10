@@ -1,7 +1,6 @@
+
 body {background-color:black;}
-h1{color:grey;
-font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
+h1{color:grey, font-family:Verdana;}
  
 .maindiv{
     background-color: white;
